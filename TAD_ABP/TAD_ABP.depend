@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647832505 source:c:\users\eduar\onedrive\documents\universidade\etapa2\estruturas_de_dados\tad_abp\abp.c
+	<stdlib.h>
+	"ABP.h"
+
+1647831097 c:\users\eduar\onedrive\documents\universidade\etapa2\estruturas_de_dados\tad_abp\abp.h
+
+1647831946 source:c:\users\eduar\onedrive\documents\universidade\etapa2\estruturas_de_dados\tad_abp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ABP.h"
+

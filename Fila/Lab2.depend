@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1650472701 source:c:\codeblocks\lab2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1650472701 c:\codeblocks\lab2\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1650472702 source:d:\downloads\lab2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1650472702 d:\downloads\lab2\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1651862228 source:d:\downloads\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Fila.h"
+
